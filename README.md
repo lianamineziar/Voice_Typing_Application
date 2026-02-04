@@ -30,11 +30,11 @@ This application is useful for hands-free typing, accessibility, and productivit
 
 ## 📁 Project Structure
 
-- voice-typing/
-- │
-- ├── main.py # Main application file
-- ├── README.md # Project documentation
-- └── requirements.txt # Dependencies
+voice-typing/
+  │
+  ├── main.py # Main application file
+  ├── README.md # Project documentation
+  └── requirements.txt # Dependencies
 
 ---
 
